@@ -1,0 +1,2 @@
+class HybridSedan extends HybridVehicle {
+}
